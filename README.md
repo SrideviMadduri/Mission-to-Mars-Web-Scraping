@@ -1,6 +1,6 @@
 # Mission-to-Mars-Web-Scraping
 
-In this project, full web-scraping and data analysis for the mission to Mars is done. In this project we used Beautiful Soup for HTML parsing, automated browsing with Splinter, Matplotlib and pandas to extract data  related to Mission to Mars.
+In this project, full web-scraping and data analysis for the mission to Mars is done. Used Beautiful Soup for HTML parsing, automated browsing with Splinter, Matplotlib and pandas to extract data  related to Mission to Mars.
 
 This project consists of two parts :
 
