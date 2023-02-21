@@ -19,6 +19,8 @@ Part 2: Scrape and analyze Mars weather data, which exists in a table.
   - Printed the list in your notebook.
 - Stored the scraped data in a file and to  database (to ease sharing the data with others). To do so, exported the scraped data to  a JSON file and a MongoDB database.
 
+![alt text](https://github.com/SrideviMadduri/Mission-to-Mars-Web_Scraping/blob/main/Images/extracted_data.png?raw=true)
+
 ## Part 2: Scrape and Analyze Mars Weather Data
 
 - Created a Jupyter Notebook named part_2_mars_weather.ipynb.
@@ -40,12 +42,21 @@ Part 2: Scrape and analyze Mars weather data, which exists in a table.
  3. What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
       - Found the average the minimum daily temperature for all of the months.
       - Ploted the results as a bar chart.
+      
+  ![alt text](https://github.com/SrideviMadduri/Mission-to-Mars-Web_Scraping/blob/main/Images/Avg_low_temp_by_month.png?raw=true)
+  
  4. Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
       - Found the average the daily atmospheric pressure of all the months.
       - Ploted the results as a bar chart.
+      
+  ![alt text](https://github.com/SrideviMadduri/Mission-to-Mars-Web_Scraping/blob/main/Images/avg_pressure_by_month.png?raw=true)
+  
  5. About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
       - Considered how many days elapse on Earth in the time that Mars circles the Sun once.
       - Visually estimated the result by plotting the daily minimum temperature.
+      
+  ![alt text](https://github.com/SrideviMadduri/Mission-to-Mars-Web_Scraping/blob/main/Images/Terrestial_days_Martin_Years.png?raw=true)
+      
  6. Exported the DataFrame to a CSV file.
 
 
